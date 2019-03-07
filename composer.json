@@ -1,6 +1,7 @@
 {
     "require": {
         "twig/twig": "^2.6",
-        "raiym/instagram-php-scraper": "^0.8.28"
+        "raiym/instagram-php-scraper": "^0.8.28",
+        "twbs/bootstrap": "4.0.0"
     }
 }
